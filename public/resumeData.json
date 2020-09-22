@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Giri Madhan Prabu",
+    "occupation": "ReactJS Developer ",
+    "description": "with a knack for building beautiful, responsive web apps",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Giri, I build reactjs web apps for businesses and individuals. ",
+    "contactmessage": "Get in touch with me to receive further details, hire me, or for anything else.",
+    "email": "girimadhan7@gmail.com",
+    "phone": "+91-9600288493",
+    "address": {
+      "street": "Sengottai,",
+      "city": "Tenkasi",
+      "state": "Tamilnadu",
+      "zip": "627809"
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1Q-Gqz_Upzh4drxkS2jZX82CZX4LuqJnN/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gmpgiri/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/giri_madhan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/gmpgiri",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "PSG College of Technology",
+        "degree": "Btech in Information Technology",
+        "graduated": "April 2019"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "Figma ",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Sarees Website with React",
+        "category": "A Shopping Website which shows the latest available models of sarees",
+        "image": "saree-website.jpg",
+        "url": "https://buykanchipuramsarees.web.app/"
+      },
+      {
+        "title": "COVID-19 TRACKER with React",
+        "category": "Web App to track live COVID-19 cases Worldwide ",
+        "image": "covid-tracker.jpg",
+        "url": "https://covid-19-tracker-gmp.web.app"
+      },
+      {
+        "title": "Book Tracker with React",
+        "category": "Book Management system built using React and Firebase as backend",
+        "image": "book-tracker.jpg",
+        "url": "https://booktracker-gmp.web.app/"
+      },
+
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-gmp.web.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Do what you love and you won't be working a day of your life."
+      }
+    ]
+  }
+}
